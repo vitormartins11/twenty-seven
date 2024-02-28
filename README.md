@@ -1,2 +1,0 @@
-# twenty-seven
-bom dia
